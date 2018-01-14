@@ -9,5 +9,10 @@ Things you may want to cover:
 * Devise  
 * Devise i18t
 
+===> Add Typescript : 
+1) add yarn : brew install yarn
+2) yarn add typescript
+3) rake assets:tsc
+
 This is just a started but i will and i have ideas to make a lot of tools make rails developpers more happy :) 
 
