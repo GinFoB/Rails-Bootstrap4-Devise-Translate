@@ -1,0 +1,18 @@
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link" href="#">Active</a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Access</a>
+    <div class="dropdown-menu">
+      <%= link_to 'Sign in', new_user_session_url, :class => "dropdown-item" %>
+      <%= link_to 'Sign up', new_user_registration_url, :class => "dropdown-item" %>
+    </div>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#">Disabled</a>
+  </li>
+</ul>
