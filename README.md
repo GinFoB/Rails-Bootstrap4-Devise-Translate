@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a starter project will be help rails developpers include most populars gems *
 
 Things you may want to cover:
 
-* Ruby version
+* Rails 5.1
+* Bootstrap 4 
+* Devise  
+* Devise i18t
 
-* System dependencies
+This is just a started but i will and i have ideas to make a lot of tools make rails developpers more happy :) 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
